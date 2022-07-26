@@ -15,6 +15,7 @@ I am a Full Stack Web Developer.
   <li>HTML & CSS</li>
   <li>Bootstrap & Materialize css</li>
   <li>JavaScript</li>
+  <li>jQuery</li>
   <li>Git & Github</li>
   <li>React</li>
   <li>Node.js</li>
