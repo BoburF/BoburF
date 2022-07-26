@@ -21,4 +21,5 @@ I am a Full Stack Web Developer.
   <li>Node.js</li>
   <li>Express.js</li>
   <li>MongoDB</li>
+  <li>Socket.io</li>
 </ul>
