@@ -5,7 +5,7 @@ I am a Full Stack Web Developer.
 - i Like programming, My favorite technology is Nodejs
 - I create lending page, website for your business
 
-- 🌱 I’m currently learning Fron-end and Back-end
+- 🌱 I’m currently Fron-end and Back-end developer
 - 💬 Ask me about Anything
 - 📫 How to reach me: <a href="mailto:changeitgo3@gmail.com">Email</a>
 
@@ -15,11 +15,11 @@ I am a Full Stack Web Developer.
   <li>HTML & CSS</li>
   <li>Bootstrap & Materialize css</li>
   <li>JavaScript</li>
-  <li>jQuery</li>
   <li>Git & Github</li>
   <li>React</li>
   <li>Node.js</li>
   <li>Express.js</li>
+  <li>Nest.js</li>
   <li>MongoDB</li>
-  <li>Socket.io</li>
+  <li>Websockets</li>
 </ul>
