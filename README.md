@@ -3,23 +3,18 @@
 I am a Full Stack Web Developer. 
 - I started programming in 2022.
 - i Like programming, My favorite technology is Nodejs
-- I create lending page, website for your business
-
 - 🌱 I’m currently Fron-end and Back-end developer
-- 💬 Ask me about Anything
 - 📫 How to reach me: <a href="mailto:changeitgo3@gmail.com">Email</a>
 
 ### Skills & Endorsements
 
 <ul>
-  <li>HTML & CSS</li>
-  <li>Bootstrap & Materialize css</li>
   <li>JavaScript</li>
-  <li>Git & Github</li>
-  <li>React</li>
+  <li>TypeScript</li>
   <li>Node.js</li>
+  <li>Git & Github</li>
   <li>Express.js</li>
   <li>Nest.js</li>
+  <li>React & Redux (HTML & CSS)</li>
   <li>MongoDB</li>
-  <li>Websockets</li>
 </ul>
